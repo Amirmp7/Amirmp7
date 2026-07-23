@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Amirmp7/Amirmp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Amir
 
-Here are some ideas to get you started:
+### Computer Science Student • AI Engineer in Progress • Machine Learning & Deep Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4F8EF7&center=true&vCenter=true&random=false&width=700&lines=Computer+Science+Student;AI+and+Data+Science+Enthusiast;Competitive+Programming;Always+Learning+Something+New" />
+
+<br>
+
+<p>
+
+<a href="https://github.com/Amirmp7">
+<img src="https://img.shields.io/github/followers/Amirmp7?label=Followers&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Amirmp7&style=for-the-badge">
+
+</p>
+
+</div>
+
+---
+
+# About Me
+
+```python
+class Amir:
+
+    def __init__(self):
+
+        self.name = "Amir"
+
+        self.role = "Computer Science Student"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Algorithms",
+            "Optimization"
+        ]
+
+        self.languages = [
+            "Python",
+            "C++",
+            "C",
+            "SQL"
+        ]
+
+        self.current_focus = [
+            "Deep Learning",
+            "LLMs",
+            "NLP",
+            "Image Processing"
+        ]
+
+```
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=sqlite"/>
+
+</p>
+
+---
+
+## AI & Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+
+</p>
