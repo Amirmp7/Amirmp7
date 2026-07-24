@@ -22,6 +22,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Snake](https://raw.githubusercontent.com/Amirmp7/Amirmp7/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 # About Me
 
 ```python
