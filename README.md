@@ -8,17 +8,19 @@
 
 <br>
 
-<p>
-
-<a href="https://github.com/Amirmp7">
-<img src="https://img.shields.io/github/followers/Amirmp7?label=Followers&style=for-the-badge">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Amirmp7&style=for-the-badge">
-
-</p>
-
 </div>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amirhossein-mohammadipoor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:amir.mp1384@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
